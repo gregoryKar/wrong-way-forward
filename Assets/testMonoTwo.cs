@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class testMono : MonoBehaviour
+public class testMonoTwo : MonoBehaviour
 {
 
  // just a test mono to comit 

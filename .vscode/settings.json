@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "wrong-way-forward.slnx"
+    "dotnet.defaultSolution": "WrongWayForward.slnx"
 }
