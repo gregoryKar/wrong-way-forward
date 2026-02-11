@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.karianakis.edit.tools": {
+      "version": "https://github.com/gregoryKar/unity-edit-tools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "09ab1c1193847b0612aa5ed623ab674193e42d80"
+    },
+    "com.karianakis.utilities": {
+      "version": "https://github.com/gregoryKar/karianakis.utilities.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "12c2a69f7f6c83ff5858c3d7b5fd05d6240eaac1"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.9",
       "depth": 0,
